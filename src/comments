@@ -1,0 +1,8 @@
+Youtube API Search by keyword --> does not result statistics hence view count, likes count is not shown on home screen
+Youtube API Search By Keyword --> on infinite scroll that is by updating page token in next funtion call returns duplicate results which causes duplicate key error in console
+
+To Update:
+Add Shimmer Effect
+Add LRU Cache for search optimization
+Add Cache for button list tab search and side bar search keywords
+Wherever **searchQuerySelector === "Live"** ==> update to **liveBroadcastContent: "live"** this we get from location?.state?.videoInfo or videoInfo in watch page

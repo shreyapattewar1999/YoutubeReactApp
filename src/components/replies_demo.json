@@ -1,0 +1,765 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "DUybXuw6m6_CwC25cqzka9eF3wM",
+  "nextPageToken": "QURTSl9pM2dkWWo0c1dyM2RLWWkwV3ZlbUhrTFNwTm5CSUFmU0tMUF9HcHVldjdZZ29MVXB2M1R0ZDV3MGQxZnNlaUgzdm9HaWFVc1p5THhSQ1E2M3J1T3NnVnRIQThVbkE=",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QbHDOyO6nBs611Us9UfeolQ6Os8",
+      "id": "Ugz-9wFzKppdpveY8n54AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YUkePZb8Ub516oGHIcx6qorFsyc",
+          "id": "Ugz-9wFzKppdpveY8n54AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Excellent stuff, Thanks Akshay!",
+            "textOriginal": "Excellent stuff, Thanks Akshay!",
+            "authorDisplayName": "Sujit Singh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSur_YY-qoCeoDcDAOGvg495BeOGfzKS0rNgtBi=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChyUYnbleeHXZ4QhNZdlpKQ",
+            "authorChannelId": {
+              "value": "UChyUYnbleeHXZ4QhNZdlpKQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 88,
+            "publishedAt": "2022-10-14T13:48:11Z",
+            "updatedAt": "2022-10-14T13:48:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "rqHwqn2h__X3-CdhvcPzFyozHHU",
+            "id": "Ugz-9wFzKppdpveY8n54AaABAg.9hA4BDmAlkt9kTN6NPnNS4",
+            "snippet": {
+              "videoId": "U74BJcr8NeQ",
+              "textDisplay": "@Akshay Saini thank you so much brother, you made complex topics to understand in a very easy manner. And yes, I am waiting for more videos in this series. So please comeback soon with more  new videos in this series.\u003cbr\u003e\u003cbr\u003eCheers!!!",
+              "textOriginal": "@Akshay Saini thank you so much brother, you made complex topics to understand in a very easy manner. And yes, I am waiting for more videos in this series. So please comeback soon with more  new videos in this series.\n\nCheers!!!",
+              "parentId": "Ugz-9wFzKppdpveY8n54AaABAg",
+              "authorDisplayName": "ishu kumar",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTaFtuSQvD1BQKoVJKi93foqoMeavMAUMF_wpZE-g=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCIVJMgWI1adhIFgdg-Scerw",
+              "authorChannelId": {
+                "value": "UCIVJMgWI1adhIFgdg-Scerw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2023-01-04T15:13:18Z",
+              "updatedAt": "2023-01-04T15:13:18Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "aeD_hbjUIy3t9PFB4-iT3RpZXFY",
+            "id": "Ugz-9wFzKppdpveY8n54AaABAg.9hA4BDmAlkt9jlDmk-WaCe",
+            "snippet": {
+              "videoId": "U74BJcr8NeQ",
+              "textDisplay": "@AYUSHI yes . for some companies but most companies these days don&#39;t care about your degree if you have skill.",
+              "textOriginal": "@AYUSHI yes . for some companies but most companies these days don't care about your degree if you have skill.",
+              "parentId": "Ugz-9wFzKppdpveY8n54AaABAg",
+              "authorDisplayName": "Nidhin M",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTXJsyNAvEZsxvbxopiLodOU1soLdYWFXz-VzkwfQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCDBjwk-KqihKqZr6dx7DrMg",
+              "authorChannelId": {
+                "value": "UCDBjwk-KqihKqZr6dx7DrMg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-12-18T02:26:01Z",
+              "updatedAt": "2022-12-18T02:26:01Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "keSAMlRpU6UsrrcqSVpFZCdkeIE",
+            "id": "Ugz-9wFzKppdpveY8n54AaABAg.9hA4BDmAlkt9jL9nv6VwjK",
+            "snippet": {
+              "videoId": "U74BJcr8NeQ",
+              "textDisplay": "@akshaymarch7 currently I am pursuing mca from ignou (open) and before that I have done bsc mathematics .I am fresher .I wants to work at top companies.many of friends are telling with these degrees I cant join top mnc as they dont give preference to open degree .I am very much frustrated .is it TRUE?",
+              "textOriginal": "@akshaymarch7 currently I am pursuing mca from ignou (open) and before that I have done bsc mathematics .I am fresher .I wants to work at top companies.many of friends are telling with these degrees I cant join top mnc as they dont give preference to open degree .I am very much frustrated .is it TRUE?",
+              "parentId": "Ugz-9wFzKppdpveY8n54AaABAg",
+              "authorDisplayName": "AYUSHI",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS5n7w5ZqnKjUCVQ7vOAuEAawnwfyw3ufZFJqlPa9phM7amD9YaPR4QAL1vZTUw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCyOjJ2dSDz0XmU0u-lxgAPw",
+              "authorChannelId": {
+                "value": "UCyOjJ2dSDz0XmU0u-lxgAPw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2022-12-07T14:11:44Z",
+              "updatedAt": "2022-12-07T14:11:44Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "VvNam7ckTAdWsulXHo_qfc2Lpfk",
+            "id": "Ugz-9wFzKppdpveY8n54AaABAg.9hA4BDmAlkt9jL9kGf8KtT",
+            "snippet": {
+              "videoId": "U74BJcr8NeQ",
+              "textDisplay": "currently I am pursuing mca from ignou (open) and before that I have done bsc mathematics .I am fresher .I wants to work at top companies.many of friends are telling with these degrees I cant join top mnc as they dont give preference to open degree .I am very much frustrated .is it TRUE?",
+              "textOriginal": "currently I am pursuing mca from ignou (open) and before that I have done bsc mathematics .I am fresher .I wants to work at top companies.many of friends are telling with these degrees I cant join top mnc as they dont give preference to open degree .I am very much frustrated .is it TRUE?",
+              "parentId": "Ugz-9wFzKppdpveY8n54AaABAg",
+              "authorDisplayName": "AYUSHI",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS5n7w5ZqnKjUCVQ7vOAuEAawnwfyw3ufZFJqlPa9phM7amD9YaPR4QAL1vZTUw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCyOjJ2dSDz0XmU0u-lxgAPw",
+              "authorChannelId": {
+                "value": "UCyOjJ2dSDz0XmU0u-lxgAPw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 1,
+              "publishedAt": "2022-12-07T14:11:14Z",
+              "updatedAt": "2022-12-07T14:11:14Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Uoq7mXs11iqLUWKrDsY6DhDmBnA",
+            "id": "Ugz-9wFzKppdpveY8n54AaABAg.9hA4BDmAlkt9hBWFLOJZpx",
+            "snippet": {
+              "videoId": "U74BJcr8NeQ",
+              "textDisplay": "I like to pay but I don&#39;t have any money\u003cbr\u003eSorry for taking stuff free",
+              "textOriginal": "I like to pay but I don't have any money\nSorry for taking stuff free",
+              "parentId": "Ugz-9wFzKppdpveY8n54AaABAg",
+              "authorDisplayName": "Asish ankam",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT0x9lAMk729j_MSidYkhq83Ac6k7QAtqHbmaAItA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC17ufBUXQXPrjijfqXcAhfw",
+              "authorChannelId": {
+                "value": "UC17ufBUXQXPrjijfqXcAhfw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2022-10-15T03:12:39Z",
+              "updatedAt": "2022-10-15T03:12:55Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aGeCeYt0UqIFRwBM9ol29f0ghnM",
+      "id": "UgxvSYhWU4LJRdWF-OV4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Bk9WF2-Be-POxryfuslLtA_b0wI",
+          "id": "UgxvSYhWU4LJRdWF-OV4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Can we expect next epi",
+            "textOriginal": "Can we expect next epi",
+            "authorDisplayName": "Sketchionic",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/mHlZ_GLmXKoDXXuul5c6O-x0vpIfJhQA6IsXkX5owktlFUFB0eJwGRTeb0rjajul7bSDqUgC=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAyfRRnKkMXvEhzxr_BP8IA",
+            "authorChannelId": {
+              "value": "UCAyfRRnKkMXvEhzxr_BP8IA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-11T05:25:37Z",
+            "updatedAt": "2023-08-11T05:25:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "f6_2eX9GwYvI54H4S3KjDYDScoo",
+      "id": "Ugwtl0u_L6FbGUqjvI94AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tqV6WUEHYYDvB6rx3jtYaX99cXk",
+          "id": "Ugwtl0u_L6FbGUqjvI94AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "When will the next lec be uploaded??",
+            "textOriginal": "When will the next lec be uploaded??",
+            "authorDisplayName": "that intellectual guy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRllp-H_UdXgoTDSrWSNvzxazuo5YgWoDO1h-uffZ8DYZF_NLLYjVdXauoy33PV=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCj51ItKkHX0chTdGjt1SS2A",
+            "authorChannelId": {
+              "value": "UCj51ItKkHX0chTdGjt1SS2A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-11T04:27:06Z",
+            "updatedAt": "2023-08-11T04:27:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "icfb5djBT9dGncew-HxLGdUiilw",
+      "id": "Ugy4MTDoB3jN4AV_ytl4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9FgpELHjQgK8FnVZ2hiNH7uNjxo",
+          "id": "Ugy4MTDoB3jN4AV_ytl4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Sir please update the course, episode 4",
+            "textOriginal": "Sir please update the course, episode 4",
+            "authorDisplayName": "NMV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTDCua2V5hkJorDLPM6XsEZVod9jURAg6HW19eflrI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0U4Mm3cfqHgkxTRGm-4Zqg",
+            "authorChannelId": {
+              "value": "UC0U4Mm3cfqHgkxTRGm-4Zqg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-10T17:18:09Z",
+            "updatedAt": "2023-08-10T17:18:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "XtgiteiRW56p6fqVIEOF7cCUkHU",
+      "id": "UgzPqzonSf-k_zl9WUt4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QWojcYFvzN7H-xe62WuJy22c5Mg",
+          "id": "UgzPqzonSf-k_zl9WUt4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "sir, please  continue this series... i am really enjoying it",
+            "textOriginal": "sir, please  continue this series... i am really enjoying it",
+            "authorDisplayName": "Kajal Chandravanshi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSTAGXR1oHmMpSFY-CN18Y3X2G9H_KxC--amzFJ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7niWHVLcBW3r7gwtPWa3qw",
+            "authorChannelId": {
+              "value": "UC7niWHVLcBW3r7gwtPWa3qw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-09T13:40:03Z",
+            "updatedAt": "2023-08-09T13:40:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eU_fQMggLK9VbRiBhJg0qEam5gk",
+      "id": "UgxUcTj1qXndWtQUTzF4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2po3Ar6ufd7zyG3n-auAlIkvKEk",
+          "id": "UgxUcTj1qXndWtQUTzF4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Like all your videos, it&#39;s excellent. I look forward to the ASYNC/AWAY theme. I hope you also consider the topic of GENERATORS.",
+            "textOriginal": "Like all your videos, it's excellent. I look forward to the ASYNC/AWAY theme. I hope you also consider the topic of GENERATORS.",
+            "authorDisplayName": "Mario Alberto López",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTcaLWfJT5FBfe7cPgh8Dg700bZb9WsNjw1FA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC69bHmK44bgVY223dJOUN9w",
+            "authorChannelId": {
+              "value": "UC69bHmK44bgVY223dJOUN9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-08-08T22:58:23Z",
+            "updatedAt": "2023-08-08T22:58:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1SdciB2bweBVETMqOurH-aB-JFo",
+      "id": "UgyoHfcuiZTxEv0z66R4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "1Ag1PaWFdTOhzAn0n9J0vmVytoU",
+          "id": "UgyoHfcuiZTxEv0z66R4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "sir please continue this series",
+            "textOriginal": "sir please continue this series",
+            "authorDisplayName": "GeekyAsif",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/IoKRROs2Kymgla-YGyACSvCjderwp0LGyIkd7PTsmIh3ds1kdU0EuD-1TSLXF7OIWiQKSxwt1w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvdFhofIhNIC9dw4DXBJAUg",
+            "authorChannelId": {
+              "value": "UCvdFhofIhNIC9dw4DXBJAUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-08T08:06:08Z",
+            "updatedAt": "2023-08-08T08:06:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Zx_sRAZiP_mIYnddvU9ttMWKknU",
+      "id": "UgzBB3yquiSNjzUnD1B4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iiwEQ7aXYLCKZWYEdyg9V0lEgyY",
+          "id": "UgzBB3yquiSNjzUnD1B4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "hw completed nice class lot of thanks brother\u003cbr\u003e\u003cbr\u003e\u003cbr\u003econst cart=[&quot;shoe&quot;,&quot;bag&quot;,&quot;shirt&quot;];\r\u003cbr\u003e\r\u003cbr\u003econst promises=createorder(cart);\r\u003cbr\u003e\r\u003cbr\u003epromises.then(function(orderid){\r\u003cbr\u003e    console.log(orderid);\r\u003cbr\u003e    return orderid;\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(orderid){\r\u003cbr\u003e   return proceedtopaymet(orderid);\r\u003cbr\u003e    \r\u003cbr\u003e})\r\u003cbr\u003e.then(function(paymentdetails){\r\u003cbr\u003e    console.log(paymentdetails.paymentresult);\r\u003cbr\u003e    return paymentdetails;\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(paymentdetails){\r\u003cbr\u003e    return showorderdsummary(paymentdetails)\r\u003cbr\u003e\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(summary){\r\u003cbr\u003e    console.log(summary.item);\r\u003cbr\u003e    console.log(summary.orderditem);\r\u003cbr\u003e    return summary;\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(summary){\r\u003cbr\u003e    return walletupdate(summary);\r\u003cbr\u003e})\r\u003cbr\u003e.then(function (wallet){\r\u003cbr\u003e    console.log(wallet.walletupdate)\r\u003cbr\u003e    console.log(wallet.lotofthanks);\r\u003cbr\u003e})\r\u003cbr\u003e.catch(function(err){\r\u003cbr\u003e    console.log(err);\r\u003cbr\u003e})\r\u003cbr\u003e\r\u003cbr\u003e\r\u003cbr\u003e function createorder(cart){\r\u003cbr\u003e    const pr=new Promise (function (resolve,reject){\r\u003cbr\u003eif(!validatecart(cart)){\r\u003cbr\u003e    const err=new Error(&quot;card is not validate&quot;)\r\u003cbr\u003e        reject(err)\r\u003cbr\u003e    }\r\u003cbr\u003e    orderid=&quot;12345&quot;;\r\u003cbr\u003e    if(orderid){\r\u003cbr\u003e        setTimeout(function(){\r\u003cbr\u003e            resolve(orderid);\r\u003cbr\u003e        },5000);\r\u003cbr\u003e\r\u003cbr\u003e       \r\u003cbr\u003e \r\u003cbr\u003e    }\r\u003cbr\u003e    \r\u003cbr\u003e    });\r\u003cbr\u003e    return pr;\r\u003cbr\u003e\r\u003cbr\u003e    \r\u003cbr\u003e    \r\u003cbr\u003e}\r\u003cbr\u003e\r\u003cbr\u003efunction proceedtopaymet(orderid){\r\u003cbr\u003e    return new Promise(function (resolve,reject){\r\u003cbr\u003e        if(orderid){\r\u003cbr\u003e            resolve({\r\u003cbr\u003e                paymentstatus:&quot;1&quot;,\r\u003cbr\u003e                paymentresult:&quot;payment succes fully completed&quot;\r\u003cbr\u003e            })\r\u003cbr\u003e        }else{\r\u003cbr\u003e\r\u003cbr\u003e            reject(new Error(&quot;transaction failed try again&quot;))\r\u003cbr\u003e        }\r\u003cbr\u003e    })\r\u003cbr\u003e    \r\u003cbr\u003e}\r\u003cbr\u003e\r\u003cbr\u003efunction showorderdsummary(paymentdetails){\r\u003cbr\u003e    return new Promise(function(resolve,reject){\r\u003cbr\u003e        if(paymentdetails.paymentstatus==&quot;1&quot;){\r\u003cbr\u003e            resolve({\r\u003cbr\u003e                item:&quot;shirt&quot;,\r\u003cbr\u003e                status:&quot;2&quot;,\r\u003cbr\u003e                orderditem:&quot; your orderd is sucecss fully completed&quot;\r\u003cbr\u003e            })\r\u003cbr\u003e        }else{\r\u003cbr\u003e            reject(new Error(&quot;you have no orders right now&quot;))\r\u003cbr\u003e        }\r\u003cbr\u003e    })\r\u003cbr\u003e}\r\u003cbr\u003e\r\u003cbr\u003efunction walletupdate(summary){\r\u003cbr\u003e    return new Promise(function(resolve,reject){\r\u003cbr\u003e        if(summary.status==&quot;2&quot;){\r\u003cbr\u003e            const bal=3000;\r\u003cbr\u003e            const walletbalance=bal;\r\u003cbr\u003e            resolve({\r\u003cbr\u003e                walletupdate:walletbalance,\r\u003cbr\u003e\r\u003cbr\u003e                lotofthanks:&quot;thaku for odering have a nice day&quot;\r\u003cbr\u003e\r\u003cbr\u003e            })\r\u003cbr\u003e        }else{\r\u003cbr\u003e            reject (new Error(&quot;sry something went wrong&quot;));\r\u003cbr\u003e        }\r\u003cbr\u003e    })\r\u003cbr\u003e}\r\u003cbr\u003e\r\u003cbr\u003e\r\u003cbr\u003efunction validatecart(){\r\u003cbr\u003e    return true;\r\u003cbr\u003e}",
+            "textOriginal": "hw completed nice class lot of thanks brother\n\n\nconst cart=[\"shoe\",\"bag\",\"shirt\"];\r\n\r\nconst promises=createorder(cart);\r\n\r\npromises.then(function(orderid){\r\n    console.log(orderid);\r\n    return orderid;\r\n})\r\n.then(function(orderid){\r\n   return proceedtopaymet(orderid);\r\n    \r\n})\r\n.then(function(paymentdetails){\r\n    console.log(paymentdetails.paymentresult);\r\n    return paymentdetails;\r\n})\r\n.then(function(paymentdetails){\r\n    return showorderdsummary(paymentdetails)\r\n\r\n})\r\n.then(function(summary){\r\n    console.log(summary.item);\r\n    console.log(summary.orderditem);\r\n    return summary;\r\n})\r\n.then(function(summary){\r\n    return walletupdate(summary);\r\n})\r\n.then(function (wallet){\r\n    console.log(wallet.walletupdate)\r\n    console.log(wallet.lotofthanks);\r\n})\r\n.catch(function(err){\r\n    console.log(err);\r\n})\r\n\r\n\r\n function createorder(cart){\r\n    const pr=new Promise (function (resolve,reject){\r\nif(!validatecart(cart)){\r\n    const err=new Error(\"card is not validate\")\r\n        reject(err)\r\n    }\r\n    orderid=\"12345\";\r\n    if(orderid){\r\n        setTimeout(function(){\r\n            resolve(orderid);\r\n        },5000);\r\n\r\n       \r\n \r\n    }\r\n    \r\n    });\r\n    return pr;\r\n\r\n    \r\n    \r\n}\r\n\r\nfunction proceedtopaymet(orderid){\r\n    return new Promise(function (resolve,reject){\r\n        if(orderid){\r\n            resolve({\r\n                paymentstatus:\"1\",\r\n                paymentresult:\"payment succes fully completed\"\r\n            })\r\n        }else{\r\n\r\n            reject(new Error(\"transaction failed try again\"))\r\n        }\r\n    })\r\n    \r\n}\r\n\r\nfunction showorderdsummary(paymentdetails){\r\n    return new Promise(function(resolve,reject){\r\n        if(paymentdetails.paymentstatus==\"1\"){\r\n            resolve({\r\n                item:\"shirt\",\r\n                status:\"2\",\r\n                orderditem:\" your orderd is sucecss fully completed\"\r\n            })\r\n        }else{\r\n            reject(new Error(\"you have no orders right now\"))\r\n        }\r\n    })\r\n}\r\n\r\nfunction walletupdate(summary){\r\n    return new Promise(function(resolve,reject){\r\n        if(summary.status==\"2\"){\r\n            const bal=3000;\r\n            const walletbalance=bal;\r\n            resolve({\r\n                walletupdate:walletbalance,\r\n\r\n                lotofthanks:\"thaku for odering have a nice day\"\r\n\r\n            })\r\n        }else{\r\n            reject (new Error(\"sry something went wrong\"));\r\n        }\r\n    })\r\n}\r\n\r\n\r\nfunction validatecart(){\r\n    return true;\r\n}",
+            "authorDisplayName": "MaNu MaNu",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSRE87DserkX24iPUL1XdQGbDUWn-mEcdfdsXQAKw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCODSEyfxUWT0IHUzM3Um3JQ",
+            "authorChannelId": {
+              "value": "UCODSEyfxUWT0IHUzM3Um3JQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-07T13:29:44Z",
+            "updatedAt": "2023-08-07T13:29:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "YGWbqGkRdhEFeGfBdYmj-fAf7pE",
+      "id": "UgySkIokjhXX3L3cF3h4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4KDCnavR3yn20RiRdkW_PCNPJS4",
+          "id": "UgySkIokjhXX3L3cF3h4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "sir, next video please. i am waiting for your comeback.",
+            "textOriginal": "sir, next video please. i am waiting for your comeback.",
+            "authorDisplayName": "Rajat Rawal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQWG3o5z_LxSFtOLyTrAt5R8IRp-o8MbMbMpWQP0A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4SKcXzHKvUF6ipB2aGi_yA",
+            "authorChannelId": {
+              "value": "UC4SKcXzHKvUF6ipB2aGi_yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-07T07:30:15Z",
+            "updatedAt": "2023-08-07T07:30:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fDHP4rMaxh2qTPuZO2W9zTjHFQM",
+      "id": "UgzD7EluPrB2OpBl5b54AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lWZCD5835MQ65uEYYsj5q_0OC0E",
+          "id": "UgzD7EluPrB2OpBl5b54AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "const cart=[&quot;pent&quot;, &quot;shirt&quot;, &quot;2 pice&quot;]\r\u003cbr\u003e\r\u003cbr\u003e\r\u003cbr\u003eCreateOrder(cart).then(function(id){\r\u003cbr\u003econsole.log(id)\r\u003cbr\u003ereturn id;\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(id){\r\u003cbr\u003e return proceedToPayment(id);\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(paymentInfo){\r\u003cbr\u003e  console.log(paymentInfo)\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(paymentInfo){\r\u003cbr\u003ereturn UpdateOrderSummary(paymentInfo)\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(orderInfo){\r\u003cbr\u003ereturn walletDetailUpdate(orderInfo)\r\u003cbr\u003e})\r\u003cbr\u003e.then(function(walletInfo){\r\u003cbr\u003e  console.log(walletInfo)\r\u003cbr\u003e})\r\u003cbr\u003e.catch(function(err){\r\u003cbr\u003econsole.log(err.message)\r\u003cbr\u003e})\r\u003cbr\u003e\r\u003cbr\u003efunction validateCart(){\r\u003cbr\u003e  return true;\r\u003cbr\u003e}\r\u003cbr\u003efunction CreateOrder(cart){\r\u003cbr\u003e  const PROMISE =new Promise((resolve, reject)=&gt;{\r\u003cbr\u003e    if(!validateCart(cart)){\r\u003cbr\u003e      const err = new Error(&quot;Promise is rejected&quot;)\r\u003cbr\u003e      reject(err)\r\u003cbr\u003e    }\r\u003cbr\u003e    const id = &quot;1234&quot;;\r\u003cbr\u003e    setTimeout(()=&gt;{\r\u003cbr\u003e    if(id){\r\u003cbr\u003e      resolve(id)\r\u003cbr\u003e    }\r\u003cbr\u003e  },1000)\r\u003cbr\u003e  })\r\u003cbr\u003e  return PROMISE\r\u003cbr\u003e}\r\u003cbr\u003efunction proceedToPayment(id){\r\u003cbr\u003ereturn new Promise(function(resolve,reject){\r\u003cbr\u003e  resolve(&quot;Payment Successful&quot;)\r\u003cbr\u003e})\r\u003cbr\u003e}\r\u003cbr\u003efunction UpdateOrderSummary(paymentInfo){\r\u003cbr\u003econsole.log(&quot;here is payment info&quot;)\r\u003cbr\u003e}\r\u003cbr\u003efunction walletDetailUpdate(orderInfo){\r\u003cbr\u003e  return new Promise(function(resolve,reject){\r\u003cbr\u003e    resolve(&quot;Updated Ballance&quot;)\r\u003cbr\u003e  })\r\u003cbr\u003e}",
+            "textOriginal": "const cart=[\"pent\", \"shirt\", \"2 pice\"]\r\n\r\n\r\nCreateOrder(cart).then(function(id){\r\nconsole.log(id)\r\nreturn id;\r\n})\r\n.then(function(id){\r\n return proceedToPayment(id);\r\n})\r\n.then(function(paymentInfo){\r\n  console.log(paymentInfo)\r\n})\r\n.then(function(paymentInfo){\r\nreturn UpdateOrderSummary(paymentInfo)\r\n})\r\n.then(function(orderInfo){\r\nreturn walletDetailUpdate(orderInfo)\r\n})\r\n.then(function(walletInfo){\r\n  console.log(walletInfo)\r\n})\r\n.catch(function(err){\r\nconsole.log(err.message)\r\n})\r\n\r\nfunction validateCart(){\r\n  return true;\r\n}\r\nfunction CreateOrder(cart){\r\n  const PROMISE =new Promise((resolve, reject)=\u003e{\r\n    if(!validateCart(cart)){\r\n      const err = new Error(\"Promise is rejected\")\r\n      reject(err)\r\n    }\r\n    const id = \"1234\";\r\n    setTimeout(()=\u003e{\r\n    if(id){\r\n      resolve(id)\r\n    }\r\n  },1000)\r\n  })\r\n  return PROMISE\r\n}\r\nfunction proceedToPayment(id){\r\nreturn new Promise(function(resolve,reject){\r\n  resolve(\"Payment Successful\")\r\n})\r\n}\r\nfunction UpdateOrderSummary(paymentInfo){\r\nconsole.log(\"here is payment info\")\r\n}\r\nfunction walletDetailUpdate(orderInfo){\r\n  return new Promise(function(resolve,reject){\r\n    resolve(\"Updated Ballance\")\r\n  })\r\n}",
+            "authorDisplayName": "WildTrain",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/aY2xsUqxxGhANrGyZRsueAMWihXSU_sEzxQGF8Xef2_ufiIyj_TNOSQNNEhjDMrQdy2htbKm_g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7Dm-XIqsXBTOeVLiUi_4FQ",
+            "authorChannelId": {
+              "value": "UC7Dm-XIqsXBTOeVLiUi_4FQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-06T12:21:43Z",
+            "updatedAt": "2023-08-06T12:21:43Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cadCVk9d0lpdmsTh1ahUUu2l_SY",
+      "id": "UgzrYoeDAHgudJ7OTe54AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "i_P-X2QctEe2Mv_nkxPpz8JRIl8",
+          "id": "UgzrYoeDAHgudJ7OTe54AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "You&#39;re a great Teacher Akshay. Nowadays whenever I watch a new video of yours I assume I will be surprised, and I am not even disappointed once. Frankly speaking I would have slept if someone else would have made video this long. But I can watch all your episodes in one go, due to the unique content and your unique way of Teaching. Thankyou for all your efforts and hoping to see the new video soon :)",
+            "textOriginal": "You're a great Teacher Akshay. Nowadays whenever I watch a new video of yours I assume I will be surprised, and I am not even disappointed once. Frankly speaking I would have slept if someone else would have made video this long. But I can watch all your episodes in one go, due to the unique content and your unique way of Teaching. Thankyou for all your efforts and hoping to see the new video soon :)",
+            "authorDisplayName": "rishabh shukla",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/UHX7tJ37MaH8TrPsZsRljhP7Yr6LVJ9-8inPjO7C-VbsT3UkvzTGcfGubI1Ue_4MciIGSk7-CQg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCh5GozH0C32RtuMo3zL78jw",
+            "authorChannelId": {
+              "value": "UCh5GozH0C32RtuMo3zL78jw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-06T07:08:44Z",
+            "updatedAt": "2023-08-06T07:08:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "V0ygzb0CBHocthF2y_zyeEDdfQY",
+      "id": "UgxyfEP7IcyCcTl1qDd4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0Y57r8c9SBa02gpoupAligCqhOY",
+          "id": "UgxyfEP7IcyCcTl1qDd4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "When is the next episode coming?? Waiting!!",
+            "textOriginal": "When is the next episode coming?? Waiting!!",
+            "authorDisplayName": "Rohit Mathur",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQEqeTd8F834sfjzBweGZa6yCgKPFF1A9XP6Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZdrL_2iy4fStWpS71QyGtw",
+            "authorChannelId": {
+              "value": "UCZdrL_2iy4fStWpS71QyGtw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-05T14:06:02Z",
+            "updatedAt": "2023-08-05T14:06:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N-1JXnSPxu5cDjDV6muxmL2zESk",
+      "id": "Ugw8oYVfi2UVoLKq5GR4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kZ05mSM75kQvfNZwrle6hIGGoUU",
+          "id": "Ugw8oYVfi2UVoLKq5GR4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "can you make a video on async , await in js",
+            "textOriginal": "can you make a video on async , await in js",
+            "authorDisplayName": "Being Happy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRQdbrAfptdGqiln5S6z2LgAoxVMpcWRQU8LEgKF_kyszmgoP36Z2exZP435v51=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChIW4voKiejq9Ak66IMK_uQ",
+            "authorChannelId": {
+              "value": "UChIW4voKiejq9Ak66IMK_uQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-03T13:42:22Z",
+            "updatedAt": "2023-08-03T13:42:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JEjGljEWGmEudQTWcmIOhcw7oUU",
+      "id": "UgyzOC4hvuh71DjUzY94AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "DMpFMA8QC82BmTX8DcVn5bWwNU8",
+          "id": "UgyzOC4hvuh71DjUzY94AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "sir will you make videos on React.",
+            "textOriginal": "sir will you make videos on React.",
+            "authorDisplayName": "Pankaj Doodhwal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRacP5nTbOL9v95JoOuh18yZzJrmZOhiulIFDMX5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCESQcT9T4-VdIKzotWgqMiw",
+            "authorChannelId": {
+              "value": "UCESQcT9T4-VdIKzotWgqMiw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-31T17:46:50Z",
+            "updatedAt": "2023-07-31T17:46:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "x__kCj1aoRYOCC1dkzMuUgwj0zw",
+      "id": "UgwVXSzGPudFqmtGuXd4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Hi3Jy715RFrgoiJ7Vg2rRYyzd-o",
+          "id": "UgwVXSzGPudFqmtGuXd4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Pls upload the next video",
+            "textOriginal": "Pls upload the next video",
+            "authorDisplayName": "Rinta Roy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/VadzfvLmgJDltbmAX-u8Xp7ZlE3beBX0zzWypVsS_6afleZLFKNmVYvYT0GURoIuHajBPXWiT0U=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8icuPhHNiR2xXX8MKbEPcQ",
+            "authorChannelId": {
+              "value": "UC8icuPhHNiR2xXX8MKbEPcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-31T13:47:51Z",
+            "updatedAt": "2023-07-31T13:47:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kjq-UQhvgcU4jySSIRRrVGMPFjk",
+      "id": "UgyfwL1Gf1WsCVbYF-94AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6j2oALJNCghgk8XXzp5kxRgr0yc",
+          "id": "UgyfwL1Gf1WsCVbYF-94AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "When can we expect the next episode ?",
+            "textOriginal": "When can we expect the next episode ?",
+            "authorDisplayName": "Rishik Chakravarty",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRfdjLiA00zNMn8X6_3sZs5md8VtWKyGIskgGx1=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyCHHF6GQIYWblNu3BOkn_g",
+            "authorChannelId": {
+              "value": "UCyCHHF6GQIYWblNu3BOkn_g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-29T14:29:24Z",
+            "updatedAt": "2023-07-29T14:29:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "NqS0AdvOEGccV9VjbAK5uAShrFw",
+      "id": "Ugys238_tZ_4zwRZoC54AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ed3CArMPn5pR30iI2iDmnJYHZTI",
+          "id": "Ugys238_tZ_4zwRZoC54AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "If we are creating a promise manually. it is an Api call or it can be anything other than Api call?\u003cbr\u003eIf fetch is returning a promise why we need to create promise manually?",
+            "textOriginal": "If we are creating a promise manually. it is an Api call or it can be anything other than Api call?\nIf fetch is returning a promise why we need to create promise manually?",
+            "authorDisplayName": "Arun B S",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSmC-qt-UWjC998BtY_KmzM9ERZhMi2VIkpvQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcxvMNgcg9tgKvjm7cTiHCQ",
+            "authorChannelId": {
+              "value": "UCcxvMNgcg9tgKvjm7cTiHCQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-28T07:59:21Z",
+            "updatedAt": "2023-07-28T07:59:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oz9RBNFzejyxnJKDzapgEboF2yY",
+      "id": "UgwUtGBDIlvA9CJ7Zmh4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ptfzDzQwOslTMtcvQh52vMd3u7w",
+          "id": "UgwUtGBDIlvA9CJ7Zmh4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Please continue this series.",
+            "textOriginal": "Please continue this series.",
+            "authorDisplayName": "Ankit Kansal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRxXKBuebBEb9Tl7vJFRJ9hQS4SfNMhKAx2xFexGg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC51_EPjPmOIjyUMVrctPKA",
+            "authorChannelId": {
+              "value": "UCC51_EPjPmOIjyUMVrctPKA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-28T03:06:34Z",
+            "updatedAt": "2023-07-28T03:06:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ZrTtBmwq6CZR8cuQINgR8jVMUAo",
+      "id": "UgxqVvXJO2hAZpWjklh4AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "8jVQkKs3AeQ6fDzv_eUgKMF-vkM",
+          "id": "UgxqVvXJO2hAZpWjklh4AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Please continue this series.",
+            "textOriginal": "Please continue this series.",
+            "authorDisplayName": "Ankit Kansal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRxXKBuebBEb9Tl7vJFRJ9hQS4SfNMhKAx2xFexGg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC51_EPjPmOIjyUMVrctPKA",
+            "authorChannelId": {
+              "value": "UCC51_EPjPmOIjyUMVrctPKA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-28T03:06:24Z",
+            "updatedAt": "2023-07-28T03:06:24Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "otPjJZ5p8x_S19Lj-Cz5ppGY6eI",
+      "id": "UgxJZsB0meKhMs8aoK94AaABAg",
+      "snippet": {
+        "videoId": "U74BJcr8NeQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xWVNrjMsmxyhkZAkzG_IudnVZos",
+          "id": "UgxJZsB0meKhMs8aoK94AaABAg",
+          "snippet": {
+            "videoId": "U74BJcr8NeQ",
+            "textDisplay": "Please continue this series.",
+            "textOriginal": "Please continue this series.",
+            "authorDisplayName": "Ankit Kansal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRxXKBuebBEb9Tl7vJFRJ9hQS4SfNMhKAx2xFexGg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC51_EPjPmOIjyUMVrctPKA",
+            "authorChannelId": {
+              "value": "UCC51_EPjPmOIjyUMVrctPKA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-07-28T03:06:20Z",
+            "updatedAt": "2023-07-28T03:06:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

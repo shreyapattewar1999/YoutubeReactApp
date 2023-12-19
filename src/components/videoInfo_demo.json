@@ -1,0 +1,84 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "oe0pTCp7V4YNt5aHPJhQWAbrTj0",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "4vx0Np6ycLy58eHo-UfrgJLVLc8",
+      "id": "yEKtJGha3yM",
+      "snippet": {
+        "publishedAt": "2022-08-18T14:03:06Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Callback Hell | Ep  01 Season 02 - Namaste JavaScript",
+        "description": "Callback Hell is one of the issues we face while writing Asynchronous code in JavaScript. Another problem that we face is Inversion of Control. This episode of Namaste JavaScript season the 2 covers Good Parts as well as the Bad parts of using Callbacks. \n\nIf you find this video helpful,\nPlease support me by giving a Super Thanks contribution to the video ♥️\n\nIf not by money, \nyou can also support this video series, by sharing it with your friends on Social Media. 🙏\n\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nAlso,  give it a thumbs up and subscribe to my channel for more such videos. 🔔\n\nLink to Subscribe:  https://www.youtube.com/c/akshaymarch7?sub_confirmation=1\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nStay Connected:\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\n\n#NamasteJavaScript #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEKtJGha3yM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEKtJGha3yM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEKtJGha3yM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yEKtJGha3yM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yEKtJGha3yM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "tags": [
+          "akshaysaini.in",
+          "akshay saini javascript",
+          "akshay saini web engineer",
+          "akshay saini uber",
+          "akshay saini frontend",
+          "javascript tutorials",
+          "javascript interview questions",
+          "frontend interview questions",
+          "frontend tutorials",
+          "javascript fundamentals",
+          "akshay saini js"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Callback Hell | Ep  01 Season 02 - Namaste JavaScript",
+          "description": "Callback Hell is one of the issues we face while writing Asynchronous code in JavaScript. Another problem that we face is Inversion of Control. This episode of Namaste JavaScript season the 2 covers Good Parts as well as the Bad parts of using Callbacks. \n\nIf you find this video helpful,\nPlease support me by giving a Super Thanks contribution to the video ♥️\n\nIf not by money, \nyou can also support this video series, by sharing it with your friends on Social Media. 🙏\n\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nAlso,  give it a thumbs up and subscribe to my channel for more such videos. 🔔\n\nLink to Subscribe:  https://www.youtube.com/c/akshaymarch7?sub_confirmation=1\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nStay Connected:\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\n\n#NamasteJavaScript #AkshaySaini"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT15M28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "213343",
+        "likeCount": "13936",
+        "favoriteCount": "0",
+        "commentCount": "1224"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
